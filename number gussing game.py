@@ -1,5 +1,5 @@
-import random
-ans=random.randint(1,100)
+import random as rm
+ans=rm.randint(1,100)
 attempt=0
 while True:
     attempt+=1

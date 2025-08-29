@@ -10,4 +10,4 @@ while True:
         print("thanks for rolling!")
         break
     else:
-        print("invalid choice! please try again")
+        print("invalid choice!")
